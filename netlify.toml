@@ -1,5 +1,5 @@
 # example netlify.toml
 [build]
-  command = "#"
+  command = "node version.js"
   functions = "functions"
   publish = "."
